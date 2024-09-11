@@ -14,6 +14,7 @@ h1 {
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
+    line-height: 40px;
 }
   
   h2 {
@@ -36,6 +37,10 @@ p {
     font-size: 18px;
     margin-top: 0;
     margin-bottom: 5px;
+}
+
+ul {
+    padding-left: 20px;
 }
 
 ul li {
